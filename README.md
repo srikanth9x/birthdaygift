@@ -11,7 +11,7 @@ The main purpose of this website is to serve as a creative and unique birthday g
 
 ## Live Demo  
 Visit the website here:  
-[https://srikanth9x.github.io/birthday-gift-site/](https://srikanth9x.github.io/birthday-gift-site/)  
+[https://srikanth9x.github.io/birthdaygift/](https://srikanth9x.github.io/birthdaygift/)  
 
 ## Technology Stack  
 - **HTML**  
@@ -33,7 +33,7 @@ If you have any feedback or want to connect, reach out to me on:
 - **X (formerly Twitter)**: [https://x.com/srikanth9x](https://x.com/srikanth9x)  
 
 ## Credits  
-- Inspired by a course from **freeCodeCamp**.  
+- Inspired by a course from **Scrimba** & **freeCodeCamp**.  
 
 ---
 
